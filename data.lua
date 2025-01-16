@@ -1,4 +1,4 @@
-local url = "https://9b5f-71-90-124-135.ngrok-free.app"
+local url = " https://d3cc-71-90-124-135.ngrok-free.app"
 
 local player = game.Players.LocalPlayer
 local data = {
